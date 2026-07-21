@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0581/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 善師語錄敘條白棒特標單機大用惟能截斷乾坤直接大乘根心宗後來枝繁葉茂門戶各開家聲獨振異見風起主法者喜以文字詩韻備極鬧門庭不念祖道陸善權和尚者履踐純實行相應荷人缽袋拔露胸襟體用與而奪或縱而擒怒罵嬉笑無非妙用遇緣而說如藥麼稱性而用殺活皆全故使內外向遠近風皈真可謂末法時與臨濟之道者善權和尚造人之不齊緣事早畢門弟子將師語錄刊行幸孚世龍公默念心法難忘徵予敘簡子因久交故不揣鄙髦敘概耳其師本分以待作家另行拈出云爾時康熙戊辰年仲春月望日吉旦中憲大夫前知雲南府事郡人吳之瑋沭手拜撰松巋善權位禪師語錄目錄住安南太平山萬壽禪寺住普安松巋山普光禪寺住普安慈雲山普祥禪寺復住松巋山普光禪寺卷一上堂小參示眾機緣法語卷二頌古雜著分燈塔銘行實
   hash: sha256:23eababe30080169024181322599748da130ed89a5839e8bff9cbf84c4de80a6
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0581_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 232, content: 目錄, id: KR6q0581_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 善權位禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB469.xml
     old_id: J39nB469
-hash: sha256:ce00bb0254ed8a6a64af3003af96650caf78f6b0aee1f07e584a734476df9ec0
+hash: sha256:2ecac9e7904f63aa4c05a2052f2ec02f268cd9a7b59825219ff119a9f5d1d55c
